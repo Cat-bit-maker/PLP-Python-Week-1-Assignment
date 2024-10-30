@@ -5,7 +5,11 @@
 To learn how to take user input in Python
 
 
+
+
 Write a program that asks the user for their name, age, and location and then prints out a personalized message.
+
+
 
 
 ## Instructions:
@@ -15,6 +19,8 @@ Write a program that asks the user for their name, age, and location and then pr
 4.	Use the input () function to ask the user for their location and store it in a variable called "location".
 5.	Print out a personalized message using the user's name, age, and location. For example: "Hello [name], you are [age] years old and live in [location]."
 6.	Save and run the program to see the output.
+
+
 
 
 ### Note: Upload the code to GitHub and submit the GitHub link
