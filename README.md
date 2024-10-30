@@ -1,7 +1,7 @@
 # PLP-Python-Week-1-Assignment
-##plp_week_1_python_assignment
+## plp_week_1_python_assignment
 
-##Objective:
+## Objective:
 
 To learn how to take user input in Python
 
@@ -9,7 +9,7 @@ To learn how to take user input in Python
 Write a program that asks the user for their name, age, and location and then prints out a personalized message.
 
 
-##Instructions:
+## Instructions:
 1.	Create a new Python file and name it "user_input.py"
 2.	Use the input () function to ask the user for their name and store it in a variable called "name".
 3.	Use the input () function to ask the user for their age and store it in a variable called "age".
@@ -18,4 +18,4 @@ Write a program that asks the user for their name, age, and location and then pr
 6.	Save and run the program to see the output.
 
 
-###Note: Upload the code to GitHub and submit the GitHub link
+### Note: Upload the code to GitHub and submit the GitHub link
